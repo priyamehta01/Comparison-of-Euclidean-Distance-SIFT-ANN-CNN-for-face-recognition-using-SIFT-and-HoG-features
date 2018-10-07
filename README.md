@@ -1,0 +1,1 @@
+# Comparison-of-Euclidean-Distance-SIFT-ANN-CNN-for-face-recognition-using-SIFT-and-HoG-features
